@@ -1,4 +1,6 @@
-# 📘 Contoso Data Analysis (2014 - 2016)
+# Contoso Data Analysis (2014 - 2016)
+
+## 📘 Introduction
 
 This project contains an analytical report of Contoso's sales, profits, and returns over a 3-year period. Built using Power BI, the dashboard offers rich visualizations and actionable insights to enhance business decisions.
 
@@ -18,17 +20,16 @@ The analysis focuses on:
 
 ## 🌐 Data Source
 
-- This is a sample Contoso Sales dataset provided by Microsoft. It was downloaded from an Access database and uploaded to Google Drive for easy access: [contoso](https://drive.google.com/file/d/1vvxtA0LxEsuk-UC-GjmAlB5xGo1IL4u1/view)
+- This is a sample Contoso Sales dataset provided by Microsoft. It was downloaded from an Access database and uploaded to Google Drive for easy access: [Download_Here](https://drive.google.com/file/d/1vvxtA0LxEsuk-UC-GjmAlB5xGo1IL4u1/view)
 
 ## 🛠️ Tools Used
-
 - Power BI
 - DAX for custom measures
 - Data modeling & transformation
 
 ## 🛠️ Skills & Concepts Demonstrated
 PowerBI concepts like:
-- Data Visualization (Maps, Bar Charts, KPIs, Table view)
+- Data Visualization (Bar Charts, KPIs, Table view)
 - Report Design in Power BI
 - Developing general DAX calculations that deal with text and numbers
 - Data Modelling
@@ -39,6 +40,7 @@ PowerBI concepts like:
 - Buttons
 - Creating columns
 - Slicers
+- Drilldown
 - Craeating Relationships
 
 ## 📈 Key Insights
@@ -54,9 +56,9 @@ PowerBI concepts like:
 - **Promo vs. Regular Profit**: Promo (66.03%)
 
 ### 🔹 Returns
-- **Total Returned Qty**: 5.83M
-- **Return Rate**: 15.80%
-- **Top Returned Items**: Accessories for cell phones and computers
+- **Total Returned Quantity**: 5.83Millions
+- ** percentage of Return Rate**: 15.80%
+- **Top Returned Items**: Accessories for cell phones 
 
 ## 🔍 Recommendations
 
