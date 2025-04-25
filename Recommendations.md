@@ -84,7 +84,9 @@ For full dashboards and insights, see the [README.md](./README.md).
 
 ---
 
-<div = center>
-👤 Created by [Stephen Adeniyi](https://github.com/SteevAnalytics) • 📅 2025
+<div align="center">
+
+💼 Authored by [Stephen Adeniyi](https://github.com/SteevAnalytics/) || 📅 2025
+
 </div>
 
