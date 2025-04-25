@@ -48,8 +48,8 @@ The primary goal was to uncover insights around:
 ### 💡 Key Metrics
 - **Total Profit**: `$4.75 Billion`
 - **Profit Margin**: `56.98%`
-- **Promo Profit Contribution**: `$3.14 Billion` `66.11%`
-- **Regular Profit Contribution**: `$1.61 Billion` `33.89%`
+- **Promo Profit Contribution**: `$3.14 Billion` `66.03%`
+- **Regular Profit Contribution**: `$1.61 Billion` `33.97%`
 
 ### 📈 High-Profit Categories
 - **Computers**: `$1.84 Billion`
