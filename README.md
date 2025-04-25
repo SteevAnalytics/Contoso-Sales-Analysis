@@ -41,7 +41,7 @@ PowerBI concepts like:
 - Creating columns
 - Slicers
 - Drilldown
-- Craeating Relationships
+- Creating Relationships
 
 ## 📈 Key Insights
 
