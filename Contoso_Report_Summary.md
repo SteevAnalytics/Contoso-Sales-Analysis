@@ -1,4 +1,4 @@
-# 📊 Contoso Data Analysis Report (2014–2016)
+# 📊 Contoso Sales Analysis Report (2014–2016)
 
 This report provides a detailed analysis of Contoso's business performance between 2014 and 2016, using Microsoft’s sample dataset. The analysis explores sales performance, profit generation, and product returns to guide strategic decisions.
 
