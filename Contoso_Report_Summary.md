@@ -106,9 +106,13 @@ A separate [`Recommendations.md`](./Recommendations.md) file outlines specific a
 
 ---
 
+📁 Part of the [Contoso Data Analysis Repository](./)  
+
+---
+
 <div align="center">
 
-📁 Part of the [Contoso Data Analysis Repository](./)   || 👤 Authored by [Stephen Adeniyi](https://github.com/SteevAnalytics) • 📅 2025
+ 👤 Authored by [Stephen Adeniyi](https://github.com/SteevAnalytics) • 📅 2025
 
 </div>
 
