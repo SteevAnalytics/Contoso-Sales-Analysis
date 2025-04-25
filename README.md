@@ -8,7 +8,9 @@ This project contains an analytical report of Contoso's sales, profits, and retu
 
 - **📦 Contoso_Analysis.pbix**: The full Power BI report file.
 - **📊 dashboards/**: Contains screenshots of the dashboard pages.
+- **📊 images/**: Contains screenshots of the tables and their relation.
 - **📄 Contoso_Report_Summary.md**: A detailed markdown report of the analysis and findings.
+- **📄 Recommendations.md**: A detailed markdown Recommendations to the analysis and findings.
 - **README.md**: Overview of the project.
 
 ## 🧠 Problem Solving
