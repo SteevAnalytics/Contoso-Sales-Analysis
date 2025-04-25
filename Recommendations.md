@@ -1,4 +1,4 @@
-# 🔍 Recommendations for Contoso Data Analysis (2014–2016)
+# 🔍 Recommendations for Contoso Sales Analysis (2014–2016)
 
 This document provides actionable recommendations based on the insights gained from the Contoso dataset analysis. The focus areas include Sales, Profit, and Returns.
 
