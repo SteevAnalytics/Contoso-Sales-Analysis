@@ -16,7 +16,7 @@ This project contains an analytical report of Contoso's sales, profits, and retu
 The analysis focuses on:
 - Evaluating sales and profits across categories and time
 - Identifying key trends and seasonal patterns
-- Analyzing product return rates and their business impact
+- Analyzing product return rates
 
 ## 🌐 Data Source
 
@@ -29,7 +29,7 @@ The analysis focuses on:
 
 ## 🛠️ Skills & Concepts Demonstrated
 PowerBI concepts like:
-- Data Visualization (Bar Charts, KPIs, Table view)
+- Data Visualization (Bar Charts, Columns Charts, KPIs, Table view)
 - Report Design in Power BI
 - Developing general DAX calculations that deal with text and numbers
 - Data Modelling
@@ -47,29 +47,29 @@ PowerBI concepts like:
 
 ### 🔹 Sales
 - **Total Sales**: $8.34bn
-- **Top Channels**: Store ($4.9bn), Online ($1.7bn)
-- **Top Subcategories**: Camcorders, Projectors, Laptops
+- **Top Channels**: Store ($4.9bn), Online ($1.7bn), Reseller ($1.1bn) and Catalog ($0.7bn)
+- **Top Subcategories**: Camcorders ($1.3bn), Projectors ($1.1bn), Laptops ($0.9bn) ...
 
 ### 🔹 Profit
 - **Total Profit**: $4.75bn
 - **Profit Margin**: 56.98%
-- **Promo vs. Regular Profit**: Promo (66.03%)
+- **Promo vs. Regular Profit**: Regular Profit ($1.61bn), Promo Profit ($3.14bn)
 
 ### 🔹 Returns
 - **Total Returned Quantity**: 5.83Millions
-- ** percentage of Return Rate**: 15.80%
+- **percentage of Return Quantity**: 15.80%
 - **Top Returned Items**: Accessories for cell phones 
 
 ## 🔍 Recommendations
 
-1. Investigate high-return product categories.
+1. Investigate the causes of all returned product categories.
 2. Evaluate the effectiveness of promotions.
 3. Optimize in-store experience to reduce return rates.
 4. Leverage monthly sales trends for campaign planning.
 
 ## 📊 Dashboard Previews
 
-| Sales Analysis | Profit Analysis | Return Analysis |
+| Sales Analysis | Profit Analysis | Returned Analysis |
 |----------------|------------------|------------------|
 | ![Sales](dashboards/Sales_Analysis.png) | ![Profit](dashboards/Profit_Analysis.png) | ![Returns](dashboards/Return_Analysis.png) |
 
