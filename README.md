@@ -13,7 +13,7 @@ This project contains an analytical report of Contoso's sales, profits, and retu
 - **📄 Recommendations.md**: A detailed markdown Recommendations to the analysis and findings.
 - **README.md**: Overview of the project.
 
-## 🧠 Problem Solving
+## 🧠 Problem Solved
 
 The analysis focuses on:
 - Evaluating sales and profits across categories and time
