@@ -2,7 +2,7 @@
 
 ## 📘 Introduction
 
-This project contains an analytical report of Contoso's sales, profits, and returns over a 3-year period. Built using Power BI, the dashboard offers rich visualizations and actionable insights to enhance business decisions.
+This project contains an analytical report of Contoso's sales, profits, and returns over 3 calender years. Built using Power BI, the dashboard offers rich visualizations and actionable insights to enhance business decisions.
 
 ## 📂 Project Structure
 
